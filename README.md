@@ -1,5 +1,9 @@
 # Pong Game
 
+<p align="center">
+    <img src="Pong-Game-gif.gif" width="700">
+</p>
+
 A classic Pong Game built using Python and the Turtle graphics module. This project is part of my Python learning journey and helped me understand object-oriented programming, collision detection, game logic, and animation.
 
 ## Features
